@@ -12,6 +12,21 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sudeepbiswas242-pixel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+##  Research & Publications
+
+### 📄 Training BCI-Based Assistive Technology for People with Disabilities
+**Partha Paul**, Rupam Hazra, Parag Chatterjee, Soumen Ghosh, Sudeep Biswas
+*Published in IGI Global*
+
+> **Summary:** Developed a framework for Brain-Computer Interface (BCI) systems, focusing on optimizing neural signal processing to enhance accessibility.
+
+<p align="left">
+  <a href="https://www.igi-global.com/chapter/training-bci-based-assistive-technology-for-people-with-disabilities/382246">
+    <img src="https://img.shields.io/badge/View_Publication-00599C?style=for-the-badge&logo=googlescholar&logoColor=white" alt="View Publication" />
+  </a>
+</p>
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -22,3 +37,4 @@
 [![](https://komarev.com/ghpvc/?username=sudeepbiswas242-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
